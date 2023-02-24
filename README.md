@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Immanuel-C/Immanuel-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Im Immanuel a young dev thats trying to get a job in the games industry in the future!
 
 - 🔭 I’m currently working on my game engine with Vulkan and DirectX 12. I'll provide images once I actually get something to render 😅.
 
