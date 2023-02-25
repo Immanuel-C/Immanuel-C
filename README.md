@@ -6,4 +6,4 @@ Im Immanuel a young dev thats trying to get a job in the games industry in the f
 
 - 🌱 I’m currently learning two graphics api's Vulkan and Direct3D 12.
 
-- 🎓 The graphics api I have already learned is OpenGL. I have also learned how to communicate with drivers and do other low level tasks like that! 
+- ✅ The graphics api I have already learned is OpenGL. I have also learned how to communicate with drivers and do other low level tasks like that! 
