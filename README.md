@@ -2,6 +2,6 @@
 
 Im Immanuel a young dev thats trying to get a job in the games industry in the future! I am currently 15 years old.
 
-- 🌱 I’m currently learning one graphics api(s) which are Vulkan and Direct3D12.
+- 🌱 I’m currently learning Vulkan and Direct3D12.
 
-- ✅ The graphics api I have already learned is OpenGL. I have also learned how to communicate with drivers and do other low level tasks like that! 
+- ✅ The graphics api I have already learned is OpenGL. I have also learned how to work with other low level apis like Win32 and X11.
